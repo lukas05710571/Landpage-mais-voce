@@ -1,3 +1,12 @@
 .selector-for-some-widget {
     box-sizing: content-box;
   }
+
+  .fundo-carousel{
+    background-color: rgba(98, 104, 104,0.5); 
+   
+  }
+
+  .carousel-item img{
+        height: 470px;
+  }
