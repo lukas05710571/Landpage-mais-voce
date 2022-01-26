@@ -5,4 +5,3 @@ Nesse repositório tenho minha landpage desenvolvida do zero com os conceitos ap
 
 ###Tecnologias : Bootstrap V5.1 , html , css , js
 
-####Observações essa página ainda está em construção volte sempre e veja ás próximas versões.
