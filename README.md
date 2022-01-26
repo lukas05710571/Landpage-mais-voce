@@ -1,4 +1,4 @@
-# Landpage-mais-voce-Dio
+# Landpage-mais-voce
 Nesse repositório tenho minha landpage desenvolvida do zero com os conceitos aprendidos no Bootcamp da Inter Front-end
 
 
